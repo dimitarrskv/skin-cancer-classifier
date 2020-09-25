@@ -23,3 +23,6 @@ def predict():
         "prediction": prediction[0]
     }
     return response
+
+if __name__ == '__main__':
+    app.run()
