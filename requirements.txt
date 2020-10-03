@@ -1,5 +1,4 @@
 gunicorn
 flask
 fastai
--f http://download.pytorch.org/whl/cpu/torch_stable.html                                                                                                                                                             
-torch
+http://download.pytorch.org/whl/cpu/torch_stable.html
