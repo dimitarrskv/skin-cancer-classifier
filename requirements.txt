@@ -1,7 +1,4 @@
 gunicorn
-
 flask
-
 fastai
-
-pytorch==1.0.3
+torch==1.0.3
